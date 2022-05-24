@@ -1,2 +1,2 @@
-ALTER TABLE table_name 
+ALTER TABLE user 
 DROP COLUMN LastName;
