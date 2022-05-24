@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "driver": "mysql",
+    "user": "root",
+    "database": "mernstack",
+    "password": "MyNewPass"
+  },
+  "prod": "mysql://39b2f2a5-0972-d:55c772a6-61a9-0@data--capsule-cjofbl-x-mysql:3306/dbtest",
+  "sql-file": true
+}
